@@ -1,1 +1,2 @@
-This is a version of a hangman game I made for a school project I had. The theme of the game is centered around spiderman and simpson where spiderman is trying to save the city and Bart Simpson is trying to be a troublemaker as always. Basically, you guess the words right, You win. If you don't, Simpson wins.
+This is a version of a hangman game I made for a school project I had. I have used C++ and ASCII to make the game. The theme of the game is centered around spiderman and simpson where spiderman is trying to save the city and Bart Simpson is trying to be a troublemaker as always. Basically, you guess the words right, You win. If you don't, Simpson wins.
+This game was made in codeblocks to it is preferred to run it with Codeblocks.
