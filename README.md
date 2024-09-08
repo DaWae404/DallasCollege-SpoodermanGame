@@ -1,0 +1,1 @@
+This is a version of a hangman game I made for a school project I had. The theme of the game is centered around spiderman and simpson where spiderman is trying to save the city and Bart Simpson is trying to be a troublemaker as always. Basically, you guess the words right, You win. If you don't, Simpson wins.
